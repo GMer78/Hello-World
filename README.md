@@ -1,2 +1,4 @@
 # Hello-World
-Just another git
+Hi Guys,
+
+new git project.
